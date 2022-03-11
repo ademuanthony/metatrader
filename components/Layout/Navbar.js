@@ -82,72 +82,18 @@ const Navbar = () => {
                     <a className='nav-link'>Home</a>
                   </Link>
                 </li>
-                {/* <li className='nav-item'>
-                  <Link href='/' activeClassName='active'>
-                    <a className='dropdown-toggle nav-link'>Home</a>
-                  </Link>
-                  <ul className='dropdown-menu'>
-                    <li className='nav-item'>
-                      <Link
-                        href='/'
-                        className='nav-link'
-                        activeClassName='active'
-                      >
-                        <a className='nav-link'>Home Demo - 1</a>
-                      </Link>
-                    </li>
-                    <li className='nav-item'>
-                      <Link href='/index-2' activeClassName='active'>
-                        <a className='nav-link'>Home Demo - 2</a>
-                      </Link>
-                    </li>
-                    <li className='nav-item'>
-                      <Link href='/index-3' activeClassName='active'>
-                        <a className='nav-link'>Home Demo - 3</a>
-                      </Link>
-                    </li>
-                    <li className='nav-item'>
-                      <Link href='#' activeClassName='active'>
-                        <a className='dropdown-toggle nav-link'>Pages</a>
-                      </Link>
-                      <ul className='dropdown-menu'>
-                        <li className='nav-item'>
-                          <Link href='/trade' activeClassName='active'>
-                            <a className='nav-link'>Trade</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link href='/leadership' activeClassName='active'>
-                            <a className='nav-link'>Leadership Team</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link href='/privacy-policy' activeClassName='active'>
-                            <a className='nav-link'>Privacy Policy</a>
-                          </Link>
-                        </li>
-                        <li className='nav-item'>
-                          <Link
-                            href='/terms-condition'
-                            activeClassName='active'
-                          >
-                            <a className='nav-link'>Terms & Conditions</a>
-                          </Link>
-                        </li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li> */}
                 <li className='nav-item'>
                   <Link href='/prices' activeClassName='active'>
                     <a className='nav-link'>Trading</a>
                   </Link>
                 </li>
-                <li className='nav-item'>
-                  <Link href='/prices' activeClassName='active'>
-                    <a className='nav-link'>Listings</a>
-                  </Link>
-                </li>
+                    <li className='nav-item'>
+                      <Link href='/about' activeClassName='active'>
+                        <a className='nav-link'>
+                          About Us
+                        </a>
+                      </Link>
+                    </li>
                 <li className='nav-item megamenu support'>
                   <Link href='/faq' activeClassName='active'>
                     <a className='dropdown-toggle nav-link'>Support</a>
@@ -166,14 +112,6 @@ const Navbar = () => {
                         <a className='nav-link'>
                           <i className='bx bx-book'></i>
                           Guides
-                        </a>
-                      </Link>
-                    </li>
-                    <li className='nav-item'>
-                      <Link href='/about' activeClassName='active'>
-                        <a className='nav-link'>
-                          <i className='bx bx-group'></i>
-                          About Us
                         </a>
                       </Link>
                     </li>

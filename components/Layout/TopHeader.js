@@ -10,14 +10,14 @@ const options = {
   dots: false,
   autoplay: true,
   
-  autoplaySpeed: 2000,
+  autoplaySpeed: 1800,
   autoplayTimeout: 3100,
   autoplayHoverPause: false,
 
 
   responsive: {
     0: {
-      items: 1,
+      items: 2,
     },
     576: {
       items: 3,
@@ -26,7 +26,7 @@ const options = {
       items: 3,
     },
     992: {
-      items: 4,
+      items: 6,
     },
   },
 };
@@ -56,7 +56,7 @@ const TopHeader = () => {
               >
                 <div className='single-value-trade-box'>
                   <p>
-                    ETH/BTC <span className='price'>₿0.03150400</span>{' '}
+                    ETH/BTC <span className='price'>$0.03150400</span>{' '}
                     <span className='trending up'>
                       <i className='fas fa-caret-up'></i> +4.31%
                     </span>
@@ -72,7 +72,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    FIO/BTC <span className='price'>₿0.00000521</span>{' '}
+                    FIO/BTC <span className='price'>$0.00000521</span>{' '}
                     <span className='trending down'>
                       <i className='fas fa-caret-down'></i> -22.42%
                     </span>
@@ -80,7 +80,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    CHZ/BTC <span className='price'>₿1.04000315</span>{' '}
+                    CHZ/BTC <span className='price'>$1.04000315</span>{' '}
                     <span className='trending up'>
                       <i className='fas fa-caret-up'></i> +2.20%
                     </span>
@@ -88,7 +88,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    DOT/BTC <span className='price'>₿2.03150400</span>{' '}
+                    DOT/BTC <span className='price'>$2.03150400</span>{' '}
                     <span className='trending up'>
                       <i className='fas fa-caret-up'></i> +1.02%
                     </span>
@@ -96,7 +96,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    ADA/BTC <span className='price'>₿3.04003150</span>{' '}
+                    ADA/BTC <span className='price'>$3.04003150</span>{' '}
                     <span className='trending down'>
                       <i className='fas fa-caret-down'></i> -3.32%
                     </span>
@@ -104,7 +104,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    VET/BTC <span className='price'>₿14.0315040</span>{' '}
+                    VET/BTC <span className='price'>$14.0315040</span>{' '}
                     <span className='trending up'>
                       <i className='fas fa-caret-up'></i> +7.21%
                     </span>
@@ -112,7 +112,7 @@ const TopHeader = () => {
                 </div>
                 <div className='single-value-trade-box'>
                   <p>
-                    TRX/BTC <span className='price'>₿3.04003150</span>{' '}
+                    TRX/BTC <span className='price'>$3.04003150</span>{' '}
                     <span className='trending down'>
                       <i className='fas fa-caret-down'></i> -3.32%
                     </span>

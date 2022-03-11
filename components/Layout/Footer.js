@@ -54,22 +54,16 @@ const Footer = () => {
             </div>
             <div className='col-lg-2 col-sm-6 col-md-6'>
               <div className='single-footer-widget'>
-                <h3>Cryptocurrency</h3>
+                <h3>Trading Plartform</h3>
                 <ul className='services-links'>
                   <li>
-                    <Link href='/buy'>Buy Bitcoin</Link>
+                    <Link href='/buy'>Binance</Link>
                   </li>
                   <li>
-                    <Link href='/buy'>Buy BNB</Link>
+                    <Link href='/buy'>Kucoin</Link>
                   </li>
                   <li>
-                    <Link href='/buy'>Buy Ethereum</Link>
-                  </li>
-                  <li>
-                    <Link href='/buy'>Buy Ripple</Link>
-                  </li>
-                  <li>
-                    <Link href='/buy'>Buy Litecoin</Link>
+                    <Link href='/buy'>Bitrex</Link>
                   </li>
                 </ul>
               </div>
@@ -85,9 +79,6 @@ const Footer = () => {
                     <Link href='/guides'>Guides</Link>
                   </li>
                   <li>
-                    <Link href='/wallet'>Wallets</Link>
-                  </li>
-                  <li>
                     <Link href='/faq'>FAQ</Link>
                   </li>
                   <li>
@@ -98,17 +89,13 @@ const Footer = () => {
             </div>
             <div className='col-lg-3 col-sm-6 col-md-6'>
               <div className='single-footer-widget'>
-                <h3>Contact Info</h3>
+                <h3>About</h3>
                 <ul className='footer-contact-info'>
-                  <li>Address: 2750, Quadra Street Victoria, Canada</li>
                   <li>
-                    Email: <a href='mailto:hello@Novis.com'>hello@novis.com</a>
+                    <Link href='/why'>Why Metatrader?</Link>
                   </li>
                   <li>
-                    Phone: <a href='tel:+44587154756'>+44 587 154756</a>
-                  </li>
-                  <li>
-                    Fax: <a href='tel:+44587154756'>+55 58715 4756</a>
+                    <Link href='/review'>Metatrader Review</Link>
                   </li>
                 </ul>
               </div>
@@ -118,9 +105,9 @@ const Footer = () => {
         <div className='copyright-area'>
           <div className='container'>
             <p>
-              Copyright 2021 <strong>Novis</strong>. All Rights Reserved by{' '}
-              <Link href='https://envytheme.com/' target='_blank'>
-                EnvyTheme
+              Copyright 2022 <strong>Metatrader</strong>. All Rights Reserved by{' '}
+              <Link href='/'>
+                Metatrader Team
               </Link>
             </p>
           </div>

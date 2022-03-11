@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Novis - React/Next Cryptocurrency Template</title>
+        <title>Metatrader - Cryptocurrency trading bot</title>
         <meta
           name='viewport'
           content='width=device-width, initial-scale=1, shrink-to-fit=no'
