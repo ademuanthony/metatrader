@@ -1,9 +1,10 @@
 
+import Link from '../../utils/ActiveLink';
 
 const LoginForm = () => {
   return (
     <>
-      <div className='col-lg-6 col-md-12'>
+      <div className='col-lg-6 offset-lg-3 col-md-12'>
         <div className='login-form'>
           <h2>Login</h2>
           <form>

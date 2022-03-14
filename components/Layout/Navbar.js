@@ -41,27 +41,14 @@ const Navbar = () => {
                   </a>
                 </Link>
               </div>
-
-
               <div className='responsive-others-option'>
                 <div className='d-flex align-items-center'>
                   <div className='option-item'>
-                    <Link href='/authentication' activeClassName='active'>
+                    <Link href='/loginAuth' activeClassName='active'>
                       <a className='login-btn'>
-                        <i className='bx bx-log-in'></i>
+                        <i className='bx bx-log-in'> Login</i>
                       </a>
                     </Link>
-                  </div>
-                 
-                  <div className='option-item'>
-                    <select className='form-select'>
-                      <option value='0'>English</option>
-                      <option value='1'>French</option>
-                      <option value='2'>Español</option>
-                      <option value='3'>한국어</option>
-                      <option value='4'>Italiano</option>
-                      <option value='5'>Polski</option>
-                    </select>
                   </div>
                 </div>
               </div>
@@ -134,14 +121,14 @@ const Navbar = () => {
               <div className='others-option'>
                 <div className='d-flex align-items-center'>
                   <div className='option-item'>
-                    <Link href='/authentication' activeClassName='active'>
+                    <Link href='/loginAuth' activeClassName='active'>
                       <a className='login-btn'>
                         <i className='bx bx-log-in'></i> Login
                       </a>
                     </Link>
                   </div>
                   <div className='option-item'>
-                    <Link href='/contact' activeClassName='active'>
+                    <Link href='/registerAuth' activeClassName='active'>
                       <a className='default-btn'>
                       <i className='bx bxs-contact'></i> Register
                       </a>
