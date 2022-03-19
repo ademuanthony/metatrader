@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
-import dynamic from 'next/dynamic';
-const OwlCarousel = dynamic(import('react-owl-carousel3'));
+import { useState, useEffect } from "react";
+import Link from "next/link";
+import dynamic from "next/dynamic";
+const OwlCarousel = dynamic(import("react-owl-carousel3"));
 
 const options = {
   nav: true,
@@ -49,138 +49,127 @@ const Platform = () => {
 
   return (
     <>
-      <div className='cryptocurrency-platform-area'>
-        <div className='container-fluid'>
-          <div className='section-title'>
-            <h2>The Most Trusted Cryptocurrency Platform</h2>
+      <div className="cryptocurrency-platform-area">
+        <div className="container-fluid">
+          <div className="section-title">
+            <h2>Why Metatrader?</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              <em>Metatrader</em> is carefully designed to help you manage your
+              funds without thanks to the cognitive power of our bot. 
             </p>
           </div>
-          <div className='cryptocurrency-platform-slides'>
+          <div className="cryptocurrency-platform-slides">
             {display ? (
               <OwlCarousel
-                className='cryptocurrency-platform-slides'
+                className="cryptocurrency-platform-slides"
                 loop
                 margin={10}
                 nav
                 {...options}
               >
-                <div className='single-cryptocurrency-platform-box'>
+                <div className="single-cryptocurrency-platform-box">
                   <img
-                    src='/images/cryptocurrency-platform/cryptocurrency-platform-1.jpg'
-                    alt='image'
+                    src="/images/cryptocurrency-platform/cryptocurrency-platform-1.jpg"
+                    alt="image"
                   />
-                  <div className='content'>
-                    <div className='icon'>
-                      <img src='/images/icon/icon4.png' alt='image' />
+                  <div className="content">
+                    <div className="icon">
+                      <img src="/images/icon/icon12.png" alt="image" />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>
-                        Protected by Insurance
-                      </a>
+                      <a href="/about">No Technical Skill Required!</a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      You don't need to understand crypto trading to earn on <em>Metatrader</em>. All you need to do is to pay a yearlly subscription fee of $100, $50, or $30 and the bot trade for you.
                     </p>
-                    <Link href='/cryptocurrency-details' className='link-btn'>
-                      <a className='link-btn'>
-                        {' '}
-                        View More <i className='bx bx-chevron-right'></i>
+                    <Link href="/about" className="link-btn">
+                      <a className="link-btn">
+                        {" "}
+                        View More <i className="bx bx-chevron-right"></i>
                       </a>
                     </Link>
                   </div>
                 </div>
-                <div className='single-cryptocurrency-platform-box'>
+                <div className="single-cryptocurrency-platform-box">
                   <img
-                    src='/images/cryptocurrency-platform/cryptocurrency-platform-3.jpg'
-                    alt='image'
+                    src="/images/cryptocurrency-platform/cryptocurrency-platform-3.jpg"
+                    alt="image"
                   />
-                  <div className='content'>
-                    <div className='icon'>
-                      <img src='/images/icon/icon5.png' alt='image' />
+                  <div className="content">
+                    <div className="icon">
+                      <img src="/images/icon/icon5.png" alt="image" />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>
-                        Build Your Reputation
+                      <a href="cryptocurrency-details.html">
+                        Affilliate and Profit sharring Commission
                       </a>
                     </h3>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
-                    </p>
-                    <Link href='/cryptocurrency-details' className='link-btn'>
-                      <a className='link-btn'>
-                        {' '}
-                        View More <i className='bx bx-chevron-right'></i>
+                    <p>The three generation referral and profit sharring Commission built into the system are as follows: 
+                    <ul>
+                      <li>1st Generation => 15%</li>
+                      <li>2nd Generation => 10%</li>
+                      <li>3rd Generation => 5%</li>
+                    </ul>
+                      You will earn massive reward for building an active community in <em>Metatrader</em>. </p>
+                    <Link href="/cryptocurrency-details" className="link-btn">
+                      <a className="link-btn">
+                        {" "}
+                        View More <i className="bx bx-chevron-right"></i>
                       </a>
                     </Link>
                   </div>
                 </div>
-                <div className='single-cryptocurrency-platform-box'>
+                <div className="single-cryptocurrency-platform-box">
                   <img
-                    src='/images/cryptocurrency-platform/cryptocurrency-platform-4.jpg'
-                    alt='image'
+                    src="/images/cryptocurrency-platform/cryptocurrency-platform-4.jpg"
+                    alt="image"
                   />
-                  <div className='content'>
-                    <div className='icon'>
-                      <img src='/images/icon/icon6.png' alt='image' />
+                  <div className="content">
+                    <div className="icon">
+                      <img src="/images/icon/icon6.png" alt="image" />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>
-                        Earn Extra Income
+                      <a href="cryptocurrency-details.html">
+                      Make profit regardless of the trend 
                       </a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      <em>Metatrader</em> bot is designed to make profit regardless of the market trend. The bot is smart enough to make the right calls on sport or futures trading in both Bearish and Bullish seasons.
                     </p>
-                    <Link href='/cryptocurrency-details' className='link-btn'>
-                      <a className='link-btn'>
-                        {' '}
-                        View More <i className='bx bx-chevron-right'></i>
+                    <Link href="/cryptocurrency-details" className="link-btn">
+                      <a className="link-btn">
+                        {" "}
+                        View More <i className="bx bx-chevron-right"></i>
                       </a>
                     </Link>
                   </div>
                 </div>
-                <div className='single-cryptocurrency-platform-box'>
+                <div className="single-cryptocurrency-platform-box">
                   <img
-                    src='/images/cryptocurrency-platform/cryptocurrency-platform-2.jpg'
-                    alt='image'
+                    src="/images/cryptocurrency-platform/cryptocurrency-platform-2.jpg"
+                    alt="image"
                   />
-                  <div className='content'>
-                    <div className='icon'>
-                      <img src='/images/icon/icon7.png' alt='image' />
+                  <div className="content">
+                    <div className="icon">
+                      <img src="/images/icon/icon7.png" alt="image" />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>Secure Storage</a>
+                      <a href="cryptocurrency-details.html">Automated Trading</a>
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco.
+                      With your yearlly subscription, you don't need to worry on the type of calls to make in the market and when to make them. Metatrader got you covered. 
                     </p>
-                    <Link href='/cryptocurrency-details' className='link-btn'>
-                      <a className='link-btn'>
-                        {' '}
-                        View More <i className='bx bx-chevron-right'></i>
+                    <Link href="/cryptocurrency-details" className="link-btn">
+                      <a className="link-btn">
+                        {" "}
+                        View More <i className="bx bx-chevron-right"></i>
                       </a>
                     </Link>
                   </div>
                 </div>
               </OwlCarousel>
             ) : (
-              ''
+              ""
             )}
           </div>
         </div>

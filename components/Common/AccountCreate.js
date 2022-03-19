@@ -10,10 +10,7 @@ const AccountCreate = ({title}) => {
                 <div className='section-title'>
                   <h2>{title}</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco.
+                    Making money with <emp>Metatrader</emp> is just a click away!!!
                   </p>
                 </div>
                 <div className='row justify-content-center'>
@@ -24,8 +21,7 @@ const AccountCreate = ({title}) => {
                       </div>
                       <h3>Create Account</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        Register and complete KYC
                       </p>
                     </div>
                   </div>
@@ -34,10 +30,9 @@ const AccountCreate = ({title}) => {
                       <div className='icon'>
                         <img src='/images/icon/icon2.png' alt='image' />
                       </div>
-                      <h3>Link Your Bank Account</h3>
+                      <h3>Fund your Account</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        Fund your account with both subscription fee & trading fee 
                       </p>
                     </div>
                   </div>
@@ -46,10 +41,9 @@ const AccountCreate = ({title}) => {
                       <div className='icon'>
                         <img src='/images/icon/icon3.png' alt='image' />
                       </div>
-                      <h3>Start Buying & Selling</h3>
+                      <h3>Start Making More</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore.
+                        Allow Metatrader bot trade for you with state of the art trading facilities. 
                       </p>
                     </div>
                   </div>

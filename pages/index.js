@@ -1,6 +1,6 @@
 import Banner from '../components/HomeOne/Banner';
 import Funfact from '../components/Common/Funfact';
-import BuySell from '../components/HomeOne/BuySell';
+// import BuySell from '../components/HomeOne/BuySell';
 import AccountCreate from '../components/Common/AccountCreate';
 import Platform from '../components/HomeOne/Platform';
 import FeedBack from '../components/HomeOne/FeedBack';
@@ -14,7 +14,7 @@ const Index = () => {
     <>
       <Banner />
       <Funfact pt100='pt-100' />
-      <BuySell pt70='pt-70' />
+      {/* <BuySell pt70='pt-70' /> */}
       <AccountCreate title='Get Started in a Few Minutes' />
       <Platform />
       <FeedBack />

@@ -82,10 +82,10 @@ const Banner = () => {
               <div className='main-banner-content'>
                 <h1>Metatrader</h1>
                 <h6>
-                  The most reliable crypto trading bot
+                  The most reliable crypto trading bot using Artificial Inteligience with cognitive power
                 </h6>
-                <p>Make 35% return on all your crypto investment regardless of the direction of the price with <em>Metatrader</em></p>
-                <Link href='https://www.coinbase.com/signup'>
+                <p>Make 35% return on your investment in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help <em>Metatrader</em></p>
+                <Link href='/registerAuth'>
                   <a className='default-btn'>
                     <i className='bx bxs-user'></i> Register Now
                   </a>
