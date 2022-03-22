@@ -37,7 +37,7 @@ const NavbarTwo = () => {
               <div className='logo'>
                 <Link href='/'>
                   <a>
-                    <img src='/images/MetatradasLogo.jpg' alt='logo' />
+                    <img src='/images/logo.png' alt='logo' />
                   </a>
                 </Link>
               </div>

@@ -1515,7 +1515,7 @@ About Area CSS
 .about-area {
   border-top: 1px solid #eeeeee;
 }
-
+/* 
 .about-content {
   border-radius: 0 0 5px 5px;
   background-color: var(--blackColor);
@@ -1527,7 +1527,7 @@ About Area CSS
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
-}
+} */
 
 .about-content .content {
   padding: 30px;
@@ -2007,12 +2007,14 @@ Cryptocurrency Platform Area CSS
   -webkit-transition: var(--transition);
   transition: var(--transition);
   margin-top: 30px;
+  min-height: 486px;
 }
 
 .owl-item.active.center .single-cryptocurrency-platform-box .content {
   opacity: 1;
   visibility: visible;
   margin-top: 0;
+  min-height: 486px;
 }
 
 .cryptocurrency-platform-slides .owl-nav {
@@ -2845,6 +2847,58 @@ Feedback Area CSS
   margin-bottom: 30px;
   position: relative;
   z-index: 1;
+  cursor: pointer;
+  background-color: #FAFAFA;
+  border-radius: 8px;
+  padding: 15px;
+}
+
+.single-feedback-box .subscription-gold {
+    transform: translate(50%,-50%);
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 5em;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px gold,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
+}
+
+.subscription-title {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.subscription-details{
+  padding-left: 21%;
+  margin-top: 35px;
+}
+
+.sub-info {
+  color: var(--optionalColor);
+  font-weight: 750;
+}
+
+.subscription-btn {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.single-feedback-box:hover {
+  transform: translate(0, -1px);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
 .single-feedback-box .rating {
@@ -2888,17 +2942,6 @@ Feedback Area CSS
   font-size: 14.5px;
 }
 
-.single-feedback-box::before {
-  content: "\edd8";
-  line-height: 1;
-  color: var(--blackColor);
-  opacity: .04;
-  position: absolute;
-  right: -10px;
-  top: -20px;
-  font-family: 'boxicons';
-  font-size: 120px;
-}
 
 .single-feedback-item {
   background-color: #f9f9f9;
@@ -7607,4 +7650,8 @@ label {
 
 .terms {
   color: #0077b5;
+}
+
+.logo img {
+  max-height: 86px !important;
 }

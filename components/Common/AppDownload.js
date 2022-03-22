@@ -12,22 +12,22 @@ const AppDownload = () => {
             </div>
             <div className='col-lg-6 col-md-12 p-0'>
               <div className='app-download-content'>
-                <h2>Trade On The Mobile App</h2>
+                <h2>Metatradas Mobile App</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                  <em>Metatradas</em> mobile app is been developed and will be available soon, watch out this space...
                 </p>
                 <div className='btn-box'>
                   <a href='#' className='playstore-btn' target='_blank'>
                     <img src='/images/play-store.png' alt='image' />
-                    Get It On
+                    {/* Get It On */}
                     <span>Google Play</span>
+                    Coming Soon
                   </a>
                   <a href='#' className='applestore-btn' target='_blank'>
                     <img src='/images/apple-store.png' alt='image' />
-                    Download on the
+                    {/* Download on the */}
                     <span>Apple Store</span>
+                    Coming Soon
                   </a>
                 </div>
               </div>

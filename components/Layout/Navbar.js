@@ -37,7 +37,7 @@ const Navbar = () => {
               <div className='logo'>
                 <Link href='/'>
                   <a>
-                    <img src='/images/MetatradasLogo.jpg' alt='logo' />
+                    <img src='/images/logo.png' alt='logo' />
                   </a>
                 </Link>
               </div>
@@ -58,7 +58,7 @@ const Navbar = () => {
         <nav className={showMenu? 'show navbar navbar-expand-md navbar-light':'navbar navbar-expand-md navbar-light hide-menu'}>
           <div className='container'>
             <Link href='/'>
-              <a className='navbar-brand'>
+              <a className='navbar-brand logo'>
                 <img src='/images/logo.png' alt='logo' />
               </a>
             </Link>
@@ -67,11 +67,6 @@ const Navbar = () => {
               <li className='nav-item'>
                   <Link href='/' activeClassName='active'>
                     <a className='nav-link'>Home</a>
-                  </Link>
-                </li>
-                <li className='nav-item'>
-                  <Link href='/prices' activeClassName='active'>
-                    <a className='nav-link'>Trading</a>
                   </Link>
                 </li>
                     <li className='nav-item'>

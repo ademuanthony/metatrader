@@ -52,10 +52,10 @@ const Platform = () => {
       <div className="cryptocurrency-platform-area">
         <div className="container-fluid">
           <div className="section-title">
-            <h2>Why Metatrader?</h2>
+            <h2>Why Metatradas?</h2>
             <p>
-              <em>Metatrader</em> is carefully designed to help you manage your
-              funds without thanks to the cognitive power of our bot. 
+              <em>Metatradas</em> is carefully designed to help you manage your
+              funds without thanks to the cognitive power of our bot.
             </p>
           </div>
           <div className="cryptocurrency-platform-slides">
@@ -80,7 +80,9 @@ const Platform = () => {
                       <a href="/about">No Technical Skill Required!</a>
                     </h3>
                     <p>
-                      You don't need to understand crypto trading to earn on <em>Metatrader</em>. All you need to do is to pay a yearlly subscription fee of $100, $50, or $30 and the bot trade for you.
+                      You don't need to understand crypto trading to earn on{" "}
+                      <em>Metatradas</em>. All you need to do is to pay a
+                      yearlly subscription fee of $100, $50, or $30 for the Gold, Silver or Bronze packages reaspectively and the bot trade for you.
                     </p>
                     <Link href="/about" className="link-btn">
                       <a className="link-btn">
@@ -104,13 +106,17 @@ const Platform = () => {
                         Affilliate and Profit sharring Commission
                       </a>
                     </h3>
-                    <p>The three generation referral and profit sharring Commission built into the system are as follows: 
-                    <ul>
-                      <li>1st Generation => 15%</li>
-                      <li>2nd Generation => 10%</li>
-                      <li>3rd Generation => 5%</li>
-                    </ul>
-                      You will earn massive reward for building an active community in <em>Metatrader</em>. </p>
+                    <p>
+                      The three generation referral and profit sharring
+                      Commission built into the system are as follows:
+                      <ul>
+                        <li>1st Generation => 15%</li>
+                        <li>2nd Generation => 10%</li>
+                        <li>3rd Generation => 5%</li>
+                      </ul>
+                      You will earn massive reward for building an active
+                      community in <em>Metatradas</em>.{" "}
+                    </p>
                     <Link href="/cryptocurrency-details" className="link-btn">
                       <a className="link-btn">
                         {" "}
@@ -130,11 +136,14 @@ const Platform = () => {
                     </div>
                     <h3>
                       <a href="cryptocurrency-details.html">
-                      Make profit regardless of the trend 
+                        Make profit regardless of the trend
                       </a>
                     </h3>
                     <p>
-                      <em>Metatrader</em> bot is designed to make profit regardless of the market trend. The bot is smart enough to make the right calls on sport or futures trading in both Bearish and Bullish seasons.
+                      <em>Metatradas</em> bot is designed to make profit
+                      regardless of the market trend. The bot is smart enough to
+                      make the right calls on sport or futures trading in both
+                      Bearish and Bullish seasons.
                     </p>
                     <Link href="/cryptocurrency-details" className="link-btn">
                       <a className="link-btn">
@@ -154,10 +163,14 @@ const Platform = () => {
                       <img src="/images/icon/icon7.png" alt="image" />
                     </div>
                     <h3>
-                      <a href="cryptocurrency-details.html">Automated Trading</a>
+                      <a href="cryptocurrency-details.html">
+                        Automated Trading
+                      </a>
                     </h3>
                     <p>
-                      With your yearlly subscription, you don't need to worry on the type of calls to make in the market and when to make them. Metatrader got you covered. 
+                      With your yearlly subscription, you don't need to worry on
+                      the type of calls to make in the market and when to make
+                      them. Metatradas got you covered.
                     </p>
                     <Link href="/cryptocurrency-details" className="link-btn">
                       <a className="link-btn">

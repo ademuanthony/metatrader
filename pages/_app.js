@@ -22,7 +22,6 @@ export default function App({ Component, pageProps }) {
     <Provider store={store}>
       <Layout>
         <Component {...pageProps} />
-        {/* Go Top Button */}
         <GoTop scrollStepInPx='100' delayInMs='10.50' />
       </Layout>
     </Provider>

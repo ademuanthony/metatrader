@@ -8,9 +8,7 @@ const RegisterAreaTwo = ({title}) => {
           <div className='account-register-content'>
             <h2>{title}</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
             <a href='login-register.html' className='default-btn'>
               <i className='bx bxs-user'></i> Register Now

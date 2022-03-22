@@ -7,20 +7,16 @@ const OurFeature = ({title}) => {
           <div className='section-title'>
             <h2>{title}</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
+              
             </p>
           </div>
           <div className='row align-items-center justify-content-center'>
             <div className='col-lg-4 col-md-6 col-sm-6'>
               <div className='single-features-box'>
                 <img src='/images/features/features-img1.png' alt='image' />
-                <h3>Security First</h3>
+                <h3>Highly Secured</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  The system is build with the best security architecture. All accounts on the system must be fully verified with valid documents in order to make withdrawals.
                 </p>
               </div>
             </div>
@@ -29,9 +25,7 @@ const OurFeature = ({title}) => {
                 <img src='/images/features/features-img2.png' alt='image' />
                 <h3>Fast Withdrawals</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  Withdrawals are automated and very fast. A fee of 20% is charged on every withdrawals. 
                 </p>
               </div>
             </div>
@@ -40,9 +34,7 @@ const OurFeature = ({title}) => {
                 <img src='/images/features/features-img3.png' alt='image' />
                 <h3>24/7 Support</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipicing elit, sed do
-                  eiusmod tempor incididunt ut labore et doee magna aliqua. Ut
-                  enim ad minim veniam.
+                  The team is always available and open to meet all your technical needs 24/7
                 </p>
               </div>
             </div>
