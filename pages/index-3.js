@@ -24,7 +24,7 @@ const Index = () => {
       <RegisterArea
         bgGradient='bg-gradient-image'
         blackText='black-text'
-        ctaImage='/images/man-with-ipad.png'
+        ctaImage='/images/trademobile.jpg'
       />
     </>
   );

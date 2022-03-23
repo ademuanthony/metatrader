@@ -2882,7 +2882,7 @@ Feedback Area CSS
 }
 
 .subscription-details{
-  padding-left: 21%;
+  padding-left: 15%;
   margin-top: 35px;
 }
 
@@ -7653,5 +7653,5 @@ label {
 }
 
 .logo img {
-  max-height: 86px !important;
+  max-height: 76px !important;
 }

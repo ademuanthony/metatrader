@@ -8,14 +8,12 @@ const RegisterArea = ({bgGradient,blackText,ctaImage}) => {
           <div className='row align-items-center justify-content-center'>
             <div className='col-lg-6 col-md-12'>
               <div className={`cta-content ${blackText}`}>
-                <h2>Start Trading on Raimo</h2>
+                <h2>Start Making Money with Metatradas</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                  Make money while you sleep!!!
                 </p>
-                <a href='login-register.html' className='default-btn'>
-                  <i className='bx bxs-user'></i> Register Now
+                <a href='/registerAuth' className='default-btn'>
+                  <i className='bx bxs-user'></i> Register and Activate your Account now
                 </a>
               </div>
             </div>
