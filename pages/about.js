@@ -110,24 +110,24 @@ const About = () => {
                 
                 <ul>
                   <li>
-                    <h6>Bronze</h6>
+                    <h6>EMIR</h6>
                     <ul>
                       <li>Subscription fee: 30$</li>
-                      <li>As an Bronze package subscriber, you will be earning 20 - 25% per month and your bot will be taking 5 calculated trade per day with an accuracy of 80%</li>
+                      <li>As an Emir package subscriber, you will be earning between 15 - 20% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 70%</li>
                     </ul>
                   </li>
                   <li>
-                    <h6>Silver</h6>
+                    <h6>EMPEROR</h6>
                     <ul>
                       <li>Subscription fee: 50$</li>
-                      <li>As an Silver package subscriber, you will be earning 25 - 30% per month and your bot will be taking 5 calculated trade per day with an accuracy of 85%</li>
+                      <li>As an <em>Emperor</em> package subscriber, you will be earning between 20 - 25% return on investment per month.  The bot will be making 5 calculated trades per day with an accuracy of 80%</li>
                     </ul>
                   </li>
                   <li>
-                    <h6>Gold</h6>
+                    <h6>EMIRATE</h6>
                     <ul>
                       <li>Subscription fee: 100$</li>
-                      <li>As an Gold package subscriber, you will be earning 30 - 35% per month and your bot will be taking 5 calculated trade per day with an accuracy of 95%</li>
+                      <li>As an <em>Emirate</em> package subscriber, you will be earning between 25 - 35% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 95%</li>
                     </ul>
                   </li>
                 </ul>

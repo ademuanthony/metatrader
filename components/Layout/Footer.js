@@ -71,7 +71,7 @@ const Footer = () => {
                 <h3>Resources</h3>
                 <ul className="quick-links">
                   <li>
-                    <Link href="/trade">Trade</Link>
+                    <Link href="/#">Subscription</Link>
                   </li>
                   <li>
                     <Link href="/guides">Guides</Link>
@@ -90,10 +90,10 @@ const Footer = () => {
                 <h3>About</h3>
                 <ul className="footer-contact-info">
                   <li>
-                    <Link href="/why">Why Metatradas?</Link>
+                    <Link href="/about">Why Metatradas?</Link>
                   </li>
                   <li>
-                    <Link href="/review">Metatradas Review</Link>
+                    <Link href="/#">Metatradas Review</Link>
                   </li>
                 </ul>
               </div>
