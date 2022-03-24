@@ -118,6 +118,11 @@ Faq.defaultProps = {
       answer:
         'There\'s no minimum or maximum.',
     },
+    {
+      question: 'Can I have multiple accounts?',
+      answer:
+        'No, each users can only have one account. Single users with multiple accounts will be disabled',
+    },
   ],
 };
 

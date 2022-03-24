@@ -37,7 +37,7 @@ const Navbar = () => {
               <div className='logo'>
                 <Link href='/'>
                   <a>
-                    <img src='/images/logo.png' alt='logo' />
+                    <img src='/images/logoNew.png' alt='logo' />
                   </a>
                 </Link>
               </div>
@@ -108,7 +108,7 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li className='nav-item'>
-                  <Link href='/blog' activeClassName='active'>
+                  <Link href='/#' activeClassName='active'>
                     <a className='nav-link'>Blog</a>
                   </Link>
                 </li>

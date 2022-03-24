@@ -43,13 +43,8 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank" className="telegram">
+                    <a href="https://t.me/metatradas" target="_blank" className="telegram">
                       <i className="bx bxl-telegram"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#" target="_blank" className="discord">
-                      <i className="bx bxl-discord"></i>
                     </a>
                   </li>
                 </ul>
