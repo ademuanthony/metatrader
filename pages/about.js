@@ -57,7 +57,7 @@ const About = () => {
             </div>
             <div className="timeline-event">
               <div className="timeline-event-icon">
-                <i className="bx bxl-bitcoin"></i>
+                <i className="bx bx-user-plus"></i>
               </div>
               <div className="timeline-event-date bg4">
                 <span>Referral programs</span>
@@ -81,7 +81,7 @@ const About = () => {
             </div>
             <div className="timeline-event">
               <div className="timeline-event-icon">
-                <i className="bx bxl-apple"></i>
+                <i className="bx bx-wallet"></i>
               </div>
               <div className="timeline-event-date bg4">
                 <span>Profit Maximization</span>
@@ -99,6 +99,38 @@ const About = () => {
                       Attain leadership possition to qualify for profit sharing
                     </li>
                   </ul>
+              </div>
+            </div>
+            <div className="timeline-event">
+              <div className="timeline-event-icon">
+                <i className="bx bx-dollar"></i>
+              </div>
+              <div className="timeline-event-content">
+                <h2>Metatradas Compensation Plans</h2>
+                
+                <ul>
+                  <li>
+                    <h6>Bronze</h6>
+                    <ul>
+                      <li>Subscription fee: 30$</li>
+                      <li>As an Bronze package subscriber, you will be earning 20 - 25% per month and your bot will be taking 5 calculated trade per day with an accuracy of 80%</li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h6>Silver</h6>
+                    <ul>
+                      <li>Subscription fee: 50$</li>
+                      <li>As an Silver package subscriber, you will be earning 25 - 30% per month and your bot will be taking 5 calculated trade per day with an accuracy of 85%</li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h6>Gold</h6>
+                    <ul>
+                      <li>Subscription fee: 100$</li>
+                      <li>As an Gold package subscriber, you will be earning 30 - 35% per month and your bot will be taking 5 calculated trade per day with an accuracy of 95%</li>
+                    </ul>
+                  </li>
+                </ul>
               </div>
             </div>
           </div>

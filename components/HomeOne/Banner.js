@@ -81,11 +81,10 @@ const Banner = () => {
               <div className="main-banner-content">
                 <h1>Metatradas</h1>
                 <h6>
-                  The most reliable crypto trading Platform using Artificial
-                  Inteligience with cognitive power
+                  The most reliable crypto trading Platform using Artificial Intelligence with cognitive power
                 </h6>
                 <p>
-                  <em>Metatradas</em> uses AI technology that accesses probabilities as trades take place giving subscribers an unparallel advantage navigating today's volatile market. Make upto <strong>35%</strong> return on your investment monthly in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help Metatradas
+                  <em>Metatradas</em> uses AI technology that accesses probabilities as trades take place giving subscribers an unparallel advantage navigating today's volatile market. Make up to <strong>35%</strong> return on your investment monthly in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help of Metatradas
                 </p>
                 <Link href="/registerAuth">
                   <a className="default-btn">
