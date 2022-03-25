@@ -84,7 +84,7 @@ const Banner = () => {
                   The most reliable crypto trading Platform using Artificial Intelligence with cognitive power
                 </h6>
                 <p>
-                  <em>Metatradas</em> uses AI technology that accesses probabilities as trades take place giving subscribers an unparallel advantage navigating today's volatile market. Make up to <strong>35%</strong> return on your investment monthly in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help of Metatradas
+                  <em>Metatradas</em> uses AI technology that accesses probabilities as trades take place giving subscribers an unparalleled advantage navigating today's volatile market. Make up to <strong>35%</strong> return on your investment monthly in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help of Metatradas
                 </p>
                 <Link href="/registerAuth">
                   <a className="default-btn">
@@ -95,7 +95,7 @@ const Banner = () => {
             </div>
             <div className="col-xl-4 col-lg-12 col-md-12 p-0">
               <div className="main-banner-image">
-                <img src="/images/portfolio/portfolio-img1.png" alt="image" />
+                <img src="/images/trading-bot.png" alt="image" />
               </div>
             </div>
           </div>

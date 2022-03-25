@@ -818,6 +818,8 @@ Main Banner Area CSS
 .main-banner-area .container {
   max-width: 1400px;
   position: relative;
+  padding-top: 100px !important;
+  
 }
 
 .main-banner-area .shape9 {
@@ -1093,7 +1095,8 @@ Main Banner Area CSS
 }
 
 .main-banner-image {
-  margin-left: -70px;
+  margin-left: -10px;
+  transform: rotate(65deg);
 }
 
 .banner-area {

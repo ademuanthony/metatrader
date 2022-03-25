@@ -54,8 +54,7 @@ const Platform = () => {
           <div className="section-title">
             <h2>Why Metatradas?</h2>
             <p>
-              <em>Metatradas</em> is carefully designed to help you manage your
-              funds without thanks to the cognitive power of our bot.
+              <em>Metatradas</em> is carefully designed to make optimal market moves for you without your involvement thanks to the cognitive power of our bot.
             </p>
           </div>
           <div className="cryptocurrency-platform-slides">
@@ -103,7 +102,7 @@ const Platform = () => {
                     </div>
                     <h3>
                       <a href="cryptocurrency-details.html">
-                        Affilliate and Profit sharring Commission
+                        Affiliate and Profit-Sharing Commission
                       </a>
                     </h3>
                     <p>
