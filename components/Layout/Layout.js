@@ -15,23 +15,23 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Metatradas - AI powered Cryptocurrency Trading Bot</title>
+        <title>Metatradas - The most reliable crypto trading Platform using Artificial Intelligence with cognitive power</title>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <meta
           name="description"
-          content="Ribnic - Muli-Niche eCommerce React Template"
+          content="Metatradas - The most reliable crypto trading Platform using Artificial Intelligence with cognitive power"
         />
         <meta
           name="og:title"
           property="og:title"
-          content="Ribnic - Muli-Niche eCommerce React Template"
+          content="Metatradas - The most reliable crypto trading Platform using Artificial Intelligence with cognitive power"
         ></meta>
         <meta
           name="twitter:card"
-          content="Ribnic - Muli-Niche eCommerce React Template"
+          content="Metatradas - The most reliable crypto trading Platform using Artificial Intelligence with cognitive power"
         ></meta>
       </Head>
 
