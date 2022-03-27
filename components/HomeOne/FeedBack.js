@@ -51,7 +51,7 @@ const FeedBack = () => {
                 </div>
                 <p className="subscription-title">Subscription Fee <span className="sub-info">$50</span></p>
                 <h4 className="text-center">Accuracy: 80%</h4>
-                <h6 className="text-center">Trades per day: 5</h6>
+                <h6 className="text-center">Trades per day: 7</h6>
                 <div className="subscription-btn">
                   <a href='/subscribtions' className='default-btn '>
                     <i className='bx bxs-user'></i> Subscribe Now
@@ -77,7 +77,7 @@ const FeedBack = () => {
                 </div>
                 <p className="subscription-title">Subscription Fee <span className="sub-info">$30</span></p>
                 <h4 className="text-center">Accuracy: 70%</h4>
-                <h6 className="text-center">Trades per day: 7</h6>
+                <h6 className="text-center">Trades per day: 5</h6>
                 <div className="subscription-btn">
                   <a href='/subscribtions' className='default-btn '>
                     <i className='bx bxs-user'></i> Subscribe Now
