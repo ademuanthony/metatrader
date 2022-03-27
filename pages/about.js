@@ -110,10 +110,10 @@ const About = () => {
                 
                 <ul>
                   <li>
-                    <h6>EMIR</h6>
+                    <h6>Captain</h6>
                     <ul>
                       <li>Subscription fee: 30$</li>
-                      <li>As an Emir package subscriber, you will be earning between 15 - 20% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 70%</li>
+                      <li>As a Captain package subscriber, you will be earning between 15 - 20% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 70%</li>
                     </ul>
                   </li>
                   <li>

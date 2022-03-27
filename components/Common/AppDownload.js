@@ -17,13 +17,13 @@ const AppDownload = () => {
                   <em>Metatradas</em> mobile app is been developed and will be available soon, watch out this space...
                 </p>
                 <div className='btn-box'>
-                  <a href='#' className='playstore-btn' target='_blank'>
+                  <a href='#' className='playstore-btn'>
                     <img src='/images/play-store.png' alt='image' />
                     {/* Get It On */}
                     <span>Google Play</span>
                     Coming Soon
                   </a>
-                  <a href='#' className='applestore-btn' target='_blank'>
+                  <a href='#' className='applestore-btn'>
                     <img src='/images/apple-store.png' alt='image' />
                     {/* Download on the */}
                     <span>Apple Store</span>

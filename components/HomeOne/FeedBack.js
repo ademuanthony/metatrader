@@ -63,7 +63,7 @@ const FeedBack = () => {
             <div className='col-lg-4 col-md-6 col-sm-12'>
               <div className='single-feedback-box'>
                 <div className="subscription-title">
-                  <span className="subscription-gold text-center">Emir</span>
+                  <span className="subscription-gold text-center">Captain</span>
                 </div>
                 <div className="row">
                   <div className="col-6 subscription-details">
