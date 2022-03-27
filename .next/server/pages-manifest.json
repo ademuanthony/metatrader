@@ -1,6 +1,24 @@
 {
   "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/affiliate": "pages/affiliate.html",
+  "/blog-details": "pages/blog-details.html",
+  "/blog": "pages/blog.html",
+  "/buy": "pages/buy.html",
+  "/contact": "pages/contact.html",
+  "/cryptocurrency-details": "pages/cryptocurrency-details.html",
+  "/cryptocurrency": "pages/cryptocurrency.html",
+  "/faq": "pages/faq.html",
+  "/guides": "pages/guides.html",
+  "/": "pages/index.html",
+  "/leadership": "pages/leadership.html",
+  "/loginAuth": "pages/loginAuth.html",
+  "/prices": "pages/prices.html",
+  "/registerAuth": "pages/registerAuth.html",
+  "/terms-condition": "pages/terms-condition.html",
+  "/trade": "pages/trade.html",
+  "/wallet": "pages/wallet.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
