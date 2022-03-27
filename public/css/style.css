@@ -806,7 +806,7 @@ Main Banner Area CSS
 .main-banner-area {
   background-color: #f9f9f9;
   position: relative;
-  padding-top: 10px;
+  /* padding-top: 10px; */
   z-index: 1;
 }
 
@@ -818,7 +818,7 @@ Main Banner Area CSS
 .main-banner-area .container {
   max-width: 1400px;
   position: relative;
-  padding-top: 100px !important;
+  padding-top: 10px !important;
   
 }
 
