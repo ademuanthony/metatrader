@@ -86,7 +86,7 @@ const Banner = () => {
                 <p>
                   <em>Metatradas</em> uses AI technology that accesses probabilities as trades take place giving subscribers an unparalleled advantage navigating today's volatile market. Make up to <strong>35%</strong> return on your investment monthly in both <strong>Bullish</strong> or <strong>Bearish</strong> seasons with the help of Metatradas
                 </p>
-                <Link href="/registerAuth">
+                <Link href="https://platform.metatradas.com/user/register">
                   <a className="default-btn">
                     <i className="bx bxs-user"></i> Register Now
                   </a>

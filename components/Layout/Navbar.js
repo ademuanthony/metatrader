@@ -44,7 +44,7 @@ const Navbar = () => {
               <div className='responsive-others-option'>
                 <div className='d-flex align-items-center'>
                   <div className='option-item'>
-                    <Link href='/loginAuth' activeClassName='active'>
+                    <Link href='https://platform.metatradas.com/user/login' activeClassName='active'>
                       <a className='login-btn'>
                         <i className='bx bx-log-in'> Login</i>
                       </a>
@@ -116,14 +116,14 @@ const Navbar = () => {
               <div className='others-option'>
                 <div className='d-flex align-items-center'>
                   <div className='option-item'>
-                    <Link href='/loginAuth' activeClassName='active'>
+                    <Link href='https://platform.metatradas.com/user/login' activeClassName='active'>
                       <a className='login-btn'>
                         <i className='bx bx-log-in'></i> Login
                       </a>
                     </Link>
                   </div>
                   <div className='option-item'>
-                    <Link href='/registerAuth' activeClassName='active'>
+                    <Link href='https://platform.metatradas.com/user/register' activeClassName='active'>
                       <a className='default-btn'>
                       <i className='bx bxs-contact'></i> Register
                       </a>

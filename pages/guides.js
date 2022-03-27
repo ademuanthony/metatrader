@@ -22,9 +22,9 @@ const Guides = () => {
               <div className='col-lg-9 col-md-12 p-0'>
                 <div className='content'>
                   <p>
-                    Click  <a href='/registerAuth'>Here </a> to create an account for FREE
+                    Click  <a href='https://platform.metatradas.com/user/register'>Here </a> to create an account for FREE
                   </p>
-                  <Link href="/registerAuth">
+                  <Link href="https://platform.metatradas.com/user/register">
                     <a>
                       <img src='/images/create-account.jpg' alt='image' />
                     </a>
