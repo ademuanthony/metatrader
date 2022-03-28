@@ -106,7 +106,7 @@ Faq.defaultProps = {
       question:
         'Any Withdrawal fee?',
       answer:
-        'Yes, the system charges 20% of every withdrawal made on the system.',
+        'Withdrawal is free. Note the system charges 30% on accrued profit for profit sharing i.e 15% for first generation, 10% for second generation and 5% for third generation. ',
     },
     {
       question: 'Do I need to know how to trade?',
@@ -122,6 +122,11 @@ Faq.defaultProps = {
       question: 'Can I have multiple accounts?',
       answer:
         'No, each users can only have one account. Single users with multiple accounts will be disabled',
+    },
+    {
+      question: 'How do I deposit',
+      answer:
+        'Login to your account, click deposit, copy the wallet address ',
     },
   ],
 };
