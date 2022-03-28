@@ -119,11 +119,6 @@ Faq.defaultProps = {
         'The minimum trading capital is $20. No maximum',
     },
     {
-      question: 'Can I have multiple accounts?',
-      answer:
-        'No, each users can only have one account. Single users with multiple accounts will be disabled',
-    },
-    {
       question: 'How do I deposit',
       answer:
         'Login to your account, click deposit, copy the wallet address ',
