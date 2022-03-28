@@ -116,7 +116,7 @@ Faq.defaultProps = {
     {
       question: 'What is the minimum / maximum trading capital?',
       answer:
-        'There\'s no minimum or maximum.',
+        'The minimum trading capital is $20. No maximum',
     },
     {
       question: 'Can I have multiple accounts?',
