@@ -101,7 +101,7 @@ const Platform = () => {
                       <img src="/images/icon/icon5.png" alt="image" />
                     </div>
                     <h3>
-                      <a href="cryptocurrency-details.html">
+                      <a href="/about">
                         Affiliate and Profit-Sharing Commission
                       </a>
                     </h3>
@@ -116,7 +116,7 @@ const Platform = () => {
                       You will earn massive reward for building an active
                       community in <em>Metatradas</em>.{" "}
                     </p>
-                    <Link href="/cryptocurrency-details" className="link-btn">
+                    <Link href="/about" className="link-btn">
                       <a className="link-btn">
                         {" "}
                         View More <i className="bx bx-chevron-right"></i>
@@ -134,7 +134,7 @@ const Platform = () => {
                       <img src="/images/icon/icon6.png" alt="image" />
                     </div>
                     <h3>
-                      <a href="cryptocurrency-details.html">
+                      <a href="/about">
                         Make profit regardless of the trend
                       </a>
                     </h3>
@@ -144,7 +144,7 @@ const Platform = () => {
                       make the right calls on sport or futures trading in both
                       Bearish and Bullish seasons.
                     </p>
-                    <Link href="/cryptocurrency-details" className="link-btn">
+                    <Link href="/about" className="link-btn">
                       <a className="link-btn">
                         {" "}
                         View More <i className="bx bx-chevron-right"></i>
@@ -162,7 +162,7 @@ const Platform = () => {
                       <img src="/images/icon/icon7.png" alt="image" />
                     </div>
                     <h3>
-                      <a href="cryptocurrency-details.html">
+                      <a href="about">
                         Automated Trading
                       </a>
                     </h3>
@@ -171,7 +171,7 @@ const Platform = () => {
                       the type of calls to make in the market and when to make
                       them. Metatradas got you covered.
                     </p>
-                    <Link href="/cryptocurrency-details" className="link-btn">
+                    <Link href="/about" className="link-btn">
                       <a className="link-btn">
                         {" "}
                         View More <i className="bx bx-chevron-right"></i>
