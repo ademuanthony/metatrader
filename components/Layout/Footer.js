@@ -33,12 +33,12 @@ const Footer = () => {
                 </div>
                 <ul className="social-links">
                   <li>
-                    <a href="#" target="_blank" className="facebook">
-                      <i className="bx bxl-facebook"></i>
+                    <a href="https://discord.gg/Nvyfm4zAjQ" target="_blank" className="discord">
+                      <i className="bx bxl-discord"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank" className="twitter">
+                    <a href="https://twitter.com/metatradas" target="_blank" className="twitter">
                       <i className="bx bxl-twitter"></i>
                     </a>
                   </li>
@@ -52,16 +52,16 @@ const Footer = () => {
             </div>
             <div className="col-lg-2 col-sm-6 col-md-6">
               <div className="single-footer-widget">
-                <h3>Trading Plartform</h3>
+                <h3>Trading Platform</h3>
                 <ul className="services-links">
                   <li>
-                    <Link href="/buy">Binance</Link>
+                    <Link href="https://platform.metatradas.com/app/trade/position">Binance</Link>
                   </li>
                   <li>
-                    <Link href="/buy">Kucoin</Link>
+                    <Link href="https://platform.metatradas.com/app/trade/position">Kucoin</Link>
                   </li>
                   <li>
-                    <Link href="/buy">Bitrex</Link>
+                    <Link href="https://platform.metatradas.com/app/trade/position">Bitrex</Link>
                   </li>
                 </ul>
               </div>

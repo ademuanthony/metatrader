@@ -113,21 +113,21 @@ const About = () => {
                     <h6>Captain</h6>
                     <ul>
                       <li>Subscription fee: 30$</li>
-                      <li>As a Captain package subscriber, you will be earning between 15 - 20% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 70%</li>
+                      <li>As a Captain package subscriber, you will be earning between 15 - 20% return on investment per month.  The bot will be making 5 calculated trades per day with an accuracy of 70%</li>
                     </ul>
                   </li>
                   <li>
                     <h6>EMPEROR</h6>
                     <ul>
                       <li>Subscription fee: 50$</li>
-                      <li>As an <em>Emperor</em> package subscriber, you will be earning between 20 - 25% return on investment per month.  The bot will be making 5 calculated trades per day with an accuracy of 80%</li>
+                      <li>As an <em>Emperor</em> package subscriber, you will be earning between 20 - 25% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 80%</li>
                     </ul>
                   </li>
                   <li>
                     <h6>EMIRATE</h6>
                     <ul>
                       <li>Subscription fee: 100$</li>
-                      <li>As an <em>Emirate</em> package subscriber, you will be earning between 25 - 35% return on investment per month.  The bot will be making 7 calculated trades per day with an accuracy of 95%</li>
+                      <li>As an <em>Emirate</em> package subscriber, you will be earning between 25 - 35% return on investment per month.  The bot will be making 10 calculated trades per day with an accuracy of 95%</li>
                     </ul>
                   </li>
                 </ul>

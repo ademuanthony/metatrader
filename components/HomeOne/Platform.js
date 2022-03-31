@@ -81,7 +81,7 @@ const Platform = () => {
                     <p>
                       You don't need to understand crypto trading to earn on{" "}
                       <em>Metatradas</em>. All you need to do is to pay a
-                      yearlly subscription fee of $100, $50, or $30 for the Gold, Silver or Bronze packages reaspectively and the bot trade for you.
+                      yearly subscription fee of $100, $50, or $30 for the Gold, Silver or Bronze packages reaspectively and the bot trade for you.
                     </p>
                     <Link href="/about" className="link-btn">
                       <a className="link-btn">
