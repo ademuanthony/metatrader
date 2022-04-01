@@ -66,7 +66,7 @@ const About = () => {
                 <h3>Compensation plan</h3>
                 <p>
                   We have very strong Compensation plan carefully planned for
-                  you to earn extral income other than the payout from the bot.
+                  you to earn extra income other than the payout from the bot.
                   The three generation referral program built into the system
                   are as follows:
                   <ul>
