@@ -111,7 +111,7 @@ Faq.defaultProps = {
     {
       question: 'Do I need to know how to trade?',
       answer:
-        'No, The bot trade for you automatically. All you need to do is to fund your account and system do the rest for you',
+        'No, The bot trade for you automatically. All you need to do is to fund your account and the system do the rest for you',
     },
     {
       question: 'What is the minimum / maximum trading capital?',
@@ -119,10 +119,24 @@ Faq.defaultProps = {
         'The minimum trading capital is $20. No maximum',
     },
     {
-      question: 'How do I deposit',
+      question: 'How do I Fund my account?',
       answer:
-        'Login to your account, click deposit, copy the wallet address ',
+        'On your dashboard, click on deposit to reveal your receiving wallet address, copy and send your preferred token [BNB or USDT] to the deposit wallet address copied.',
     },
+    {
+      question: 'How do I subscribe to a Bot?',
+      answer:
+        'When you successfully fund your wallet, select any bot package of your choice and click on subscribe.',
+    },
+    {
+      question: 'How do I start trading?',
+      answer:
+        'After subscribing to a package of your choice and funding your account with trading capital the minimum of which is $20.',
+    },
+
+
+    
+    
   ],
 };
 

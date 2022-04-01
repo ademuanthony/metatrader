@@ -9,7 +9,7 @@ const AccountCreate = ({ title }) => {
                 <div className="section-title">
                   <h2>{title}</h2>
                   <p>
-                    Making money with <emp>Metatradas</emp> is very easy. Apart from the return on investments, you can earn extral income by spreading <em>Metatradas'</em> Gospel!!!
+                    Making money with <emp>Metatradas</emp> is very easy. Apart from the return on your investments, you can earn extra income by referring your freinds on <em>Metatradas</em>.
                   </p>
                 </div>
                 <div className="row justify-content-center">

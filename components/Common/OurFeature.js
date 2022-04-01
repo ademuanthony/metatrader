@@ -25,7 +25,7 @@ const OurFeature = ({title}) => {
                 <img src='/images/features/features-img2.png' alt='image' />
                 <h3>Fast Withdrawals</h3>
                 <p>
-                  Withdrawals are automated and very fast. A fee of 20% is charged on every withdrawals. 
+                  Withdrawals are automated and very fast. The system is not charging anything on withdrawals, all withdrawals are free. 
                 </p>
               </div>
             </div>

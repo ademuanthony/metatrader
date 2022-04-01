@@ -87,7 +87,7 @@ const Guides = () => {
               <div className='col-lg-9 col-md-12 p-0'>
                 <div className='content'>
                   <p>
-                    Share your referral link and create extral stream of income to you.  
+                    Share your referral link and create extra stream of income to you.  
                   </p>
                   <img src='/images/select-payment.jpg' alt='image' />
                 </div>
