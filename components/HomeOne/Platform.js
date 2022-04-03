@@ -167,7 +167,7 @@ const Platform = () => {
                       </a>
                     </h3>
                     <p>
-                      With your yearlly subscription, you don't need to worry on
+                      With your yearly subscription, you don't need to worry on
                       the type of calls to make in the market and when to make
                       them. Metatradas got you covered.
                     </p>
