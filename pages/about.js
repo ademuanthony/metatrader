@@ -39,7 +39,7 @@ const About = () => {
               <div className="timeline-event-content">
                 <h3>Metatradas Today</h3>
                 <h6>
-                  So what is this advantage that metatradas brings to the table?
+                  So what is the advantage that metatradas brings to the table?
                 </h6>
                 <p>
                   All Trade Ideas technology is made from scratch by our own

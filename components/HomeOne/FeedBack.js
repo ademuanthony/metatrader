@@ -27,7 +27,7 @@ const FeedBack = () => {
                 <h4 className="text-center">Accuracy: 95%</h4>
                 <h6 className="text-center">Trades per day: 10</h6>
                 <div className="subscription-btn">
-                  <a href='/subscribtions' className='default-btn '>
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
                     <i className='bx bxs-user'></i> Subscribe Now
                   </a>
                 </div>
@@ -53,7 +53,7 @@ const FeedBack = () => {
                 <h4 className="text-center">Accuracy: 80%</h4>
                 <h6 className="text-center">Trades per day: 7</h6>
                 <div className="subscription-btn">
-                  <a href='/subscribtions' className='default-btn '>
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
                     <i className='bx bxs-user'></i> Subscribe Now
                   </a>
                 </div>
@@ -79,7 +79,7 @@ const FeedBack = () => {
                 <h4 className="text-center">Accuracy: 70%</h4>
                 <h6 className="text-center">Trades per day: 5</h6>
                 <div className="subscription-btn">
-                  <a href='/subscribtions' className='default-btn '>
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
                     <i className='bx bxs-user'></i> Subscribe Now
                   </a>
                 </div>
