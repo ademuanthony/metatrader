@@ -108,8 +108,8 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li className='nav-item'>
-                  <Link href='/#' activeClassName='active'>
-                    <a className='nav-link'>Blog</a>
+                  <Link href='/affiliate' activeClassName='active'>
+                    <a className='nav-link'>Subscriptions</a>
                   </Link>
                 </li>
               </ul>

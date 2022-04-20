@@ -6,68 +6,91 @@ import RegisterArea from '../components/Common/RegisterArea';
 const Affiliate = () => {
   return (
     <>
-      <PageBanner
-        pageTitle='Our Affiliate Program'
-        pageSubTitle='Help us introduce the world to bitcoin, cryptocurrency, and the new financial system.'
-        button={true}
-      />
-      <AccountCreate title='How It Works' />
 
       <div className='earn-money-area pt-100 pb-70 bg-f9f9f9'>
         <div className='container'>
-          <div className='section-title'>
-            <h2>Earn Money With Raimo</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco.
-            </p>
-          </div>
           <div className='row'>
-            <div className='col-lg-6 col-md-12'>
-              <div className='earn-money-list'>
-                <h3>Campaign Tracking</h3>
-                <ul>
-                  <li>
-                    <i className='bx bxs-pie-chart'></i> Get direct access to your
-                    campaign’s performance data
-                  </li>
-                  <li>
-                    <i className='bx bx-cog'></i> Test your campaigns with custom
-                    landing page tools and deep links
-                  </li>
-                  <li>
-                    <i className='bx bxs-badge-check'></i> Set up 5+ customizable
-                    performance reports
-                  </li>
-                </ul>
+          <div className='col-lg-4 col-md-6 col-sm-12'>
+              <div className='single-feedback-box'>
+                <div className="subscription-title">
+                  <span className="subscription-gold text-center">Emirate</span>
+                </div>
+                <div className="row">
+                  <div className="col-6 subscription-details">
+                    <h5>Investors</h5> 
+                    <h4 className="sub-info"><i className="fa fa-user icon-sm" /> <span id="investors">0</span></h4>
+                  </div>
+                  <div className="col-6 subscription-details">
+                    <h5>Monthly ROI</h5> 
+                    <h4 className="sub-info">25 - 35 <i className="fa fa-percent icon-sm" /></h4>
+                  </div>
+                </div>
+                <p className="subscription-title">Subscription Fee <span className="sub-info">$100</span></p>
+                <h4 className="text-center">Accuracy: 95%</h4>
+                <h6 className="text-center">Trades per day: 10</h6>
+                <div className="subscription-btn">
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
+                    <i className='bx bxs-user'></i> Subscribe Now
+                  </a>
+                </div>
+                
               </div>
             </div>
-            <div className='col-lg-6 col-md-12'>
-              <div className='earn-money-list'>
-                <h3>Convenient Payments</h3>
-                <ul>
-                  <li>
-                    <i className='bx bx-support'></i> Get compensated in your local
-                    currency, no matter where you live
-                  </li>
-                  <li>
-                    <i className='bx bxs-discount'></i> Receive 50% of your
-                    referrees’ trading fees for the first 3 months
-                  </li>
-                  <li>
-                    <i className='bx bx-credit-card-front'></i> Get paid
-                    electronically via PayPal or your bank account
-                  </li>
-                </ul>
+            <div className='col-lg-4 col-md-6 col-sm-12'>
+              <div className='single-feedback-box'>
+                <div className="subscription-title">
+                  <span className="subscription-gold text-center">Emperor</span>
+                </div>
+                <div className="row">
+                  <div className="col-6 subscription-details">
+                    <h5>Investors</h5> 
+                    <h4 className="sub-info"><i className="fa fa-user icon-sm" /> <span id="investors">0</span></h4>
+                  </div>
+                  <div className="col-6 subscription-details">
+                    <h5>Monthly ROI</h5> 
+                    <h4 className="sub-info">20 - 25 <i className="fa fa-percent icon-sm" /></h4>
+                  </div>
+                </div>
+                <p className="subscription-title">Subscription Fee <span className="sub-info">$50</span></p>
+                <h4 className="text-center">Accuracy: 80%</h4>
+                <h6 className="text-center">Trades per day: 7</h6>
+                <div className="subscription-btn">
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
+                    <i className='bx bxs-user'></i> Subscribe Now
+                  </a>
+                </div>
+                
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 col-sm-12'>
+              <div className='single-feedback-box'>
+                <div className="subscription-title">
+                  <span className="subscription-gold text-center">Captain</span>
+                </div>
+                <div className="row">
+                  <div className="col-6 subscription-details">
+                    <h5>Investors</h5> 
+                    <h4 className="sub-info"><i className="fa fa-user icon-sm" /> <span id="investors">0</span></h4>
+                  </div>
+                  <div className="col-6 subscription-details">
+                    <h5 className="text-center">Monthly ROI</h5> 
+                    <h4 className="sub-info text-center"> 15 - 20 <i className="fa fa-percent icon-sm" /></h4>
+                  </div>
+                </div>
+                <p className="subscription-title">Subscription Fee <span className="sub-info">$30</span></p>
+                <h4 className="text-center">Accuracy: 70%</h4>
+                <h6 className="text-center">Trades per day: 5</h6>
+                <div className="subscription-btn">
+                  <a href='https://platform.metatradas.com/user/register' className='default-btn '>
+                    <i className='bx bxs-user'></i> Subscribe Now
+                  </a>
+                </div>
+                
               </div>
             </div>
           </div>
         </div>
       </div>
-
-      <OurFeature title="The Most Trusted Cryptocurrency Platform"/>
-      <RegisterArea ctaImage='/images/man.png' />
     </>
   );
 };

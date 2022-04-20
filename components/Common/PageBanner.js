@@ -11,8 +11,8 @@ const PageBanner = ({ pageTitle, pageSubTitle, button }) => {
             <h1>{pageTitle}</h1>
             <p>{pageSubTitle}</p>
             {showBUtton && (
-              <a href='login-register.html' className='default-btn'>
-                <i className='bx bxs-user'></i> Become an Affiliate
+              <a href='https://platform.metatradas.com/user/register' className='default-btn'>
+                <i className='bx bxs-user'></i> Join Metatradas
               </a>
             )}
           </div>
