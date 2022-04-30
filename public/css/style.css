@@ -7657,3 +7657,8 @@ label {
 .logo img {
   max-height: 76px !important;
 }
+
+.app_download {
+  height: 35px;
+  width: 35px;
+}
