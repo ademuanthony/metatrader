@@ -1,5 +1,3 @@
-import useDownloader from "react-use-downloader";
-
 const AppDownload = () => {
   return (
     <>
