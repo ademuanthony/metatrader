@@ -95,12 +95,12 @@ Faq.defaultProps = {
     {
       question: 'How to fund Metatradas Acccount?',
       answer:
-        'On your dashboard, click on deposit, send USDT to the deposit wallet shown.',
+        'On your dashboard, click on deposit, copy the wallet address and send BNB (BEP 20) to the deposit wallet shown.',
     },
     {
       question: 'When can I withdraw my fund?',
       answer:
-        'Withdrawal is enabled for each user once in a week.',
+        'You can withdraw your earnings anytime.',
     },
     {
       question:
@@ -131,7 +131,7 @@ Faq.defaultProps = {
     {
       question: 'How do I start trading?',
       answer:
-        'After subscribing to a package of your choice and funding your account with trading capital the minimum of which is $20.',
+        'After subscribing to a package of your choice all you need to do is to fund your account, top up your trading capital with a minimum of $20 and the bot starts trading for you automatically',
     },
 
 
