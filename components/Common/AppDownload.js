@@ -1,4 +1,3 @@
-
 const AppDownload = () => {
   return (
     <>
@@ -17,7 +16,7 @@ const AppDownload = () => {
                   <em>Metatradas</em> mobile app is now available. Click on the button bellow to download
                 </p>
                 <div className='btn-box'>
-                <a href="/downloads/matatradas-android-release.apk" className='playstore-btn'>
+                  <a href="/downloads/matatradas-android-release.apk" className='playstore-btn'>
                     <img className="app_download" src='/images/play-store.png' alt='image' />
                     {/* Get It On */}
                     <span>Download</span>
