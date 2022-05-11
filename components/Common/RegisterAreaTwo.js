@@ -10,7 +10,7 @@ const RegisterAreaTwo = ({title}) => {
             <p>
               
             </p>
-            <a href='login-register.html' className='default-btn'>
+            <a href='https://platform.metatradas.com/user/register?ref=qwas01a' className='default-btn'>
               <i className='bx bxs-user'></i> Register Now
             </a>
           </div>

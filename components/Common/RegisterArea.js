@@ -12,7 +12,7 @@ const RegisterArea = ({bgGradient,blackText,ctaImage}) => {
                 <p>
                   Make money while you sleep!!!
                 </p>
-                <a href='https://platform.metatradas.com/user/register' className='default-btn'>
+                <a href='https://platform.metatradas.com/user/register?ref=qwas01a' className='default-btn'>
                   <i className='bx bxs-user'></i> Register and Activate your Account now
                 </a>
               </div>

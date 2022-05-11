@@ -1,4 +1,4 @@
-import app1 from '../../public/images/app-armeabi-v7a-release.apk';
+
 const AppDownload = () => {
   return (
     <>
@@ -6,9 +6,9 @@ const AppDownload = () => {
         <div className='container'>
           <div className='row align-items-center m-0'>
             <div className='col-lg-6 col-md-12 p-0'>
-              <div className='app-download-image'>
-                <img src={app1} alt='image' />
-              </div>
+              {/* <div className='app-download-image'>
+                <img src='' alt='image' />
+              </div> */}
             </div>
             <div className='col-lg-6 col-md-12 p-0'>
               <div className='app-download-content'>
@@ -17,8 +17,8 @@ const AppDownload = () => {
                   <em>Metatradas</em> mobile app is now available. Click on the button bellow to download
                 </p>
                 <div className='btn-box'>
-                  <a href={app1} className='playstore-btn'>
-                    <img className="app_download" src='/images/app_download.png' alt='image' />
+                <a href="/downloads/matatradas-android-release.apk" className='playstore-btn'>
+                    <img className="app_download" src='/images/play-store.png' alt='image' />
                     {/* Get It On */}
                     <span>Download</span>
                     Now!!!
