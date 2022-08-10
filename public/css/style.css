@@ -2891,6 +2891,7 @@ Feedback Area CSS
 .sub-info {
   color: var(--optionalColor);
   font-weight: 750;
+  margin-left: 30px;
 }
 
 .subscription-btn {

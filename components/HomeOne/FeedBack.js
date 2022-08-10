@@ -20,7 +20,7 @@ const FeedBack = () => {
                   </div>
                   <div className="col-6 subscription-details">
                     <h5>Monthly ROI</h5> 
-                    <h4 className="sub-info">25 - 35 <i className="fa fa-percent icon-sm" /></h4>
+                    <h4 className="sub-info">15 <i className="fa fa-percent icon-sm" /></h4>
                   </div>
                 </div>
                 <p className="subscription-title">Subscription Fee <span className="sub-info">$100</span></p>
@@ -46,7 +46,7 @@ const FeedBack = () => {
                   </div>
                   <div className="col-6 subscription-details">
                     <h5>Monthly ROI</h5> 
-                    <h4 className="sub-info">20 - 25 <i className="fa fa-percent icon-sm" /></h4>
+                    <h4 className="sub-info">10 <i className="fa fa-percent icon-sm" /></h4>
                   </div>
                 </div>
                 <p className="subscription-title">Subscription Fee <span className="sub-info">$50</span></p>
@@ -72,7 +72,7 @@ const FeedBack = () => {
                   </div>
                   <div className="col-6 subscription-details">
                     <h5 className="text-center">Monthly ROI</h5> 
-                    <h4 className="sub-info text-center"> 15 - 20 <i className="fa fa-percent icon-sm" /></h4>
+                    <h4 className="sub-info text-center"> 5 <i className="fa fa-percent icon-sm" /></h4>
                   </div>
                 </div>
                 <p className="subscription-title">Subscription Fee <span className="sub-info">$30</span></p>
